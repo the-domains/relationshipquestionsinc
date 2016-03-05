@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T17:18:39.299Z'
-dateModified: '2016-03-05T17:18:14.081Z'
+datePublished: '2016-03-05T17:27:55.144Z'
+dateModified: '2016-03-05T17:24:39.974Z'
 title: 'Here’s five ideas for a gift for your girlfriend:'
 author: []
+sourcePath: _posts/2016-03-05-heres-five-ideas-for-a-gift-for-your-girlfriend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-heres-five-ideas-for-a-gift-for-your-girlfriend.md
-published: true
 url: heres-five-ideas-for-a-gift-for-your-girlfriend/index.html
 _type: Article
 
