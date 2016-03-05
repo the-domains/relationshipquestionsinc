@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[relationshipquestionsinc]]></title>
         <description><![CDATA[relationshipquestionsinc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/relationshipquestionsinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 17:19:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 17:28:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/relationshipquestionsinc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here’s five ideas for a gift for your girlfriend:]]></title>
             <description><![CDATA[<article><h1>Here’s five ideas for a gift for your girlfriend:</h1><h2>1. Flowers and chocolate</h2><p>Its so simple but its almost
@@ -15,9 +15,9 @@ will do the job. As for chocolate, who doesn’t love chocolate?! If you want to
 it step further, pair roses and chocolate with a poem. If you can’t rhyme or
 poems aren’t your thing, try a short note or letter expressing your love for
 your significant other. Do these three and you will need no more. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65e121983fb5510ca8dbf1f0ed7c5d5ac11bc597.jpg"></article>]]></description>
-            <link>undefinedheres-five-ideas-for-a-gift-for-your-girlfriend/index.html</link>
+            <link>https://thegrid.ai/relationshipquestionsinc/heres-five-ideas-for-a-gift-for-your-girlfriend/index.html</link>
             <guid isPermaLink="false">13bb5fd4-20ad-4e81-b6e2-25981aae226f</guid>
-            <pubDate>Sat, 05 Mar 2016 17:18:39 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 17:27:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
